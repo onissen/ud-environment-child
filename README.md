@@ -8,5 +8,6 @@ In der ersten Version ist sie auch noch mit einigen Styles ausgestattet, die aus
 
 ## Befehle
 
-Das Projekt benötigt npm. Dazu muss beim ersten Start >npm i eingegeben werden.
-Das Projekt hat auch die Möglichkeit einen Live-Server zu starten mit > npm run dev
+npm installieren:
+>npm i
+
