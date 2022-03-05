@@ -8,6 +8,5 @@ In der ersten Version ist sie auch noch mit einigen Styles ausgestattet, die aus
 
 ## Befehle
 
-npm installieren:
->npm i
-
+Beim allerersten Start muss npm installiert werden. Dazu im Terminal einfach `npm i` eingeben
+Das Porjekt bietet auch die möglichkeit, einen Live-Server laufen zu lassen. Dazu muss `npm run dev`eingegeben werden
